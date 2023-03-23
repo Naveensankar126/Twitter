@@ -6,4 +6,4 @@ Twitter work Flow:-
 *Post through image and shorts instead of normal message with high security encryptions
 3.Retweet the message 
 4.Like the post
-5.We can tag the people with desired twitte
+5.Not have to be a celebrity
